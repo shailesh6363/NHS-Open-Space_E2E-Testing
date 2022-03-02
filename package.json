@@ -1,0 +1,22 @@
+{
+  "name": "nhs-open-space",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shailesh6363/NHS-Open-Space_E2E-Testing.git"
+  },
+  "author": "Shailesh Waghole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shailesh6363/NHS-Open-Space_E2E-Testing/issues"
+  },
+  "homepage": "https://github.com/shailesh6363/NHS-Open-Space_E2E-Testing#readme",
+  "dependencies": {
+    "cypress": "^9.5.1"
+  }
+}
